@@ -1,0 +1,9 @@
+<Empleados>
+  <Empleado>
+    <id>0</id>
+    <nombre>Pedro</nombre>
+    <apell1>Picapiedra</apell1>
+    <apell2>Pomez</apell2>
+    <salario>200.0</salario>
+  </Empleado>
+</Empleados>
